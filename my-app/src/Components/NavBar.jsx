@@ -15,8 +15,8 @@ function NavBar() {
                 </ul>
                 </div>
                 <div className="left-login flex ml-auto">
-                <a className='m-2 font-bold flex p-2 text-base	'> <i className='mr-3 '>{lock}</i> Login</a>
-                <a className='m-2  bg-white p-3 text-[#5B2B9D] rounded font-bold'>Join Community</a>
+                <a className='m-2 font-bold flex p-2 text-base	'> <i className='mr-3 mt-0.5 '>{lock}</i> Login</a>
+                <a className='m-2  bg-white p-3 text-[#5B2B9D] rounded font-black'>Join Community</a>
                 </div>
             </div>
         </div>
