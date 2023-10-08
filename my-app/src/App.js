@@ -1,23 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Topper from './Components/Topper';
 function App() {
   return (
     <div className="App ">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This From Fromme Me <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link text-sky-400 "
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Topper />
+      <h2 className='bg-red'>fr</h2>
     </div>
   );
 }
