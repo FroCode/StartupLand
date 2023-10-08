@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App ">
       <Topper />
-      <h2 className='bg-red'>fr</h2>
+      <h2 className='bg-red'>Just this</h2>
     </div>
   );
 }
