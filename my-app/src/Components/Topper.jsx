@@ -1,5 +1,5 @@
 import React from 'react'
-import { icon } from '../Assets/icons';
+import { icon , arrowLeft } from '../Assets/icons';
 function Topper() {
   console.log(icon);
   return (
@@ -12,7 +12,7 @@ function Topper() {
           <li className='mr-4 font-semibold'>.NET  $14    </li>
           <li className='mr-4 font-semibold'>.ORG  $19</li>
         </ul>
-        <a className='m-2 text-[#87A9FF] font-bold'>See Pricing</a>
+        <a className='m-2 text-[#87A9FF] font-bold flex'>See Pricing <i className='p-2'>{arrowLeft}</i></a>
       </div>
     </div>
   )
