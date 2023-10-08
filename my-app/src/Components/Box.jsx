@@ -2,11 +2,11 @@ import React from 'react'
 
 function Box() {
     return (
-        <div className='flex flex-col w-9/1 rounded p-5 bg-white'>
+        <div className='flex flex-col w-9/1 rounded-2xl p-10 mr-10 bg-white'>
                 
-            <h1 className='text-[65px] text-[#02073E] font-black'>Built Your Buisness with a Website</h1>
+            <h1 className='text-[60px] text-[#02073E] font-black'>Built Your Buisness with a Website</h1>
             <div className="relative">
-                <input type="text" className='border-1 border-solid	 mt-4 border-[#DCE5EA]  p-4 w-full' placeholder='Your Domain Name' name="domain" />
+                <input type="text" className='border-1 border-solid	border-gray-300 mt-4  p-4 w-full' placeholder='Your Domain Name' name="domain" />
                 <div className="absolute right-0 top-0 h-full flex items-center">
                     <select name="" className='p-4 mt-4 font-bold' id="" >
                         <option value=".COM">.COM</option>
