@@ -6,9 +6,9 @@ function Box() {
                 
             <h1 className='text-[65px] text-[#02073E] font-black'>Built Your Buisness with a Website</h1>
             <div className="relative">
-                <input type="text" className='border-1 border-[#DCE5EA] p-4 w-full' placeholder='Your Domain Name' name="domain" />
+                <input type="text" className='border-1 border-solid	 mt-4 border-[#DCE5EA]  p-4 w-full' placeholder='Your Domain Name' name="domain" />
                 <div className="absolute right-0 top-0 h-full flex items-center">
-                    <select name="" className='p-4 font-bold' id="" >
+                    <select name="" className='p-4 mt-4 font-bold' id="" >
                         <option value=".COM">.COM</option>
                         <option value=".DZ">.DZ</option>
                         <option value=".FR">.FR</option>
@@ -17,8 +17,8 @@ function Box() {
                 </div>
             </div>
             
-            <a className='m-2  text-white p-4 text-center bg-[#5B2B9D] rounded font-black'>Start For Free</a>
-            <p className='text-center '>No Credit Card Required</p>
+            <a className='m-2 mt-5 text-white p-4 text-center bg-[#5B2B9D] rounded font-black'>Start For Free</a>
+            <p className='text-center mt-4 mb-4 '>No Credit Card Required</p>
         </div>
     )
 }
