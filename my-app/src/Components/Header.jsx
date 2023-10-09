@@ -8,7 +8,7 @@ function Header() {
       <div className="container xl m-auto">
       <NavBar/>
       <div className="flex w-[90%] mt-20 m-auto">
-        <Box/>
+        <Box />
         <img src={header} alt="" srcset="" width="40%" />
       </div>
       </div>

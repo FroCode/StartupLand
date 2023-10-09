@@ -6,8 +6,8 @@ function Box() {
                 
             <h1 className='text-[60px] text-[#02073E] font-black'>Built Your Buisness with a Website</h1>
             <div className="relative">
-                <input type="text" className='border-1 border-solid	border-gray-300 mt-4  p-4 w-full' placeholder='Your Domain Name' name="domain" />
-                <div className="absolute right-0 top-0 h-full flex items-center">
+                <input type="text " className='border-1 border-solid 	border-gray-300 mt-4  p-4 w-full' placeholder='Your Domain Name' name="domain" />
+                <div className="absolute  right-0 top-0 h-full flex items-center">
                     <select name="" className='p-4 mt-4 font-bold' id="" >
                         <option value=".COM">.COM</option>
                         <option value=".DZ">.DZ</option>
