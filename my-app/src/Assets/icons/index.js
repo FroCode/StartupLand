@@ -139,3 +139,18 @@ export const lock = <svg width="16" height="20" viewBox="0 0 16 20" fill="none" 
 export const arrowRight = <svg width="21" height="16" viewBox="0 0 21 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M20.5731 7.23588L13.8273 0.316535C13.4157 -0.105512 12.7481 -0.105512 12.3367 0.316535C11.925 0.739114 11.925 1.42351 12.3367 1.84556L17.2831 6.91921H1.15809C0.576067 6.91921 0.104126 7.40308 0.104126 8.0004C0.104126 8.59717 0.576067 9.08158 1.15809 9.08158H17.2831L12.3368 14.1552C11.9251 14.5767 11.9251 15.2617 12.3368 15.6837C12.5426 15.8945 12.8124 15.9999 13.0822 15.9999C13.3519 15.9999 13.6216 15.8945 13.8274 15.6837L20.5731 8.76437C20.9848 8.34288 20.9848 7.65793 20.5731 7.23588Z" fill="#0F2137"/>
 </svg>
+
+export var titles = ["Ultimate Email  subscription",
+  "Bolt Performance",
+  "Secure Transaction",
+  "Multiple Options",
+  "5 Star Rating service",
+ " Integrated with Shopify"]
+export const paragraphIcons = [
+  "A free domain name for life now included with every shared plan on all billing cycles.",
+  "If you cancel for any reason within 30 days of ordering, we'll issue you a full refund.",
+  "We'll be here when you need us the most. Day or night, even on Christmas Day.",
+  "We make it easy to move to CometNine. Simply contact us, and we'll move.",
+  "Changing PHP versions is as easy as flipping a switch within cPanel.",
+  "Get your info tests delivered at home, collect a sample from your task",
+];
