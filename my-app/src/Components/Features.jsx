@@ -22,17 +22,14 @@ function Features() {
                 <div className="grid md:grid-cols-3 gap-4 m-auto">
                 {titles.map((title)=>{
             return(
-                <div className="text-center p-5 rounded border">
+                <div className="text-center p-5 rounded ">
                         <h3 className="text-[#0F2137] p-5 font-black text-[16px] text-base">
-                            {title} <br/> {<AddCircleIcon/>}
+                            {title} <br/> <i>{<AddCircleIcon/>}</i>
                         </h3>
                         <h3 className="text-[#7B72F0] pt-3 font-black text-[16px] text-base">
-                            $0.63/mo {paragraphIcons.map((icon)=>{
-                                return(
-                                    <p className='p-2'>{icon}</p>
-                                )
-                })}
+                        A free domain name for life now included with every shared plan on all billing cycles.
                         </h3>
+                        
                     </div>
             )
         })}
