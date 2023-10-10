@@ -26,7 +26,7 @@ function Features() {
                         <h3 className="text-[#0F2137] p-5 font-black text-[16px] text-base">
                             {title} <br/> <i>{<AddCircleIcon/>}</i>
                         </h3>
-                        <h3 className="text-[#7B72F0] pt-3 font-black text-[16px] text-base">
+                        <h3 className=" pt-3 font-black text-[16px] text-base">
                         A free domain name for life now included with every shared plan on all billing cycles.
                         </h3>
                         
