@@ -8,7 +8,7 @@ const PricingCard = ({ title, price, features, par, key , num }) => {
       <p className='pb-5'>{par}</p>
       <p className="text-2xl font-bold  mb-10">${price}</p>
       <ul className="text-gray-600">
-      <a className='m-2  bg-[#5B2B9D] p-4  text-white  rounded font-black'>Start Free Trial</a> 
+      <a className={`m-2   p-4 pr-7 pl-7  rounded font-black ${num !== 1 ? "bg-white text-[#5B2B9D] border ": "bg-[#5B2B9D] text-white"}`}>Start Free Trial</a> 
         {features.map((feature, index) => (
           <li key={index} className={`mb-2 flex items-center mt-8`}>
             <svg
