@@ -3,7 +3,7 @@ import women from "../Assets/women.svg"
 import { arrowRight } from '../Assets/icons'
 function Client() {
   return (
-    <div className="client   bg-[#F0F3F8] ">
+    <div className="client  bg-[#F0F3F8] ">
       <div className=' flex flex-row  gap-10'>
           <div className='  container flex flex-row  m-auto'>
             <div className="leftImage ">

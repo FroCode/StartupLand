@@ -154,3 +154,56 @@ export const paragraphIcons = [
   "Changing PHP versions is as easy as flipping a switch within cPanel.",
   "Get your info tests delivered at home, collect a sample from your task",
 ];
+
+export const blogs = [
+  {
+    title: "Learn from how to host your site",
+    date: "October 1, 2023",
+    imgSrc: "blog1.jpg",
+    paragraph: "JavaScript is a versatile and powerful programming language...",
+    name: "FroCode"
+  },
+  {
+    title: "Customize your domain hosting",
+    date: "September 15, 2023",
+    imgSrc: "blog2.jpg",
+    paragraph: "CSS Flexbox is a fantastic layout model that simplifies...",
+    name: "Assala"
+  },
+  
+  {
+    title: "Learn how to upload on cloud host",
+    date: "August 28, 2023",
+    imgSrc: "https://www.google.com/search?q=images+dev+ui+ux+1080&tbm=isch&ved=2ahUKEwiE67ahw-6BAxWuJxAIHR-rCR0Q2-cCegQIABAA&oq=images+dev+ui+ux+1080&gs_lcp=CgNpbWcQAzoECCMQJ1C4BVjBCmChDGgAcAB4AIABe4gB4ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=HdwmZcToEK7PwPAPn9am6AE&bih=739&biw=1536&rlz=1C1ONGR_enPL1077PL1077#imgrc=V7BeyjPJapRRJM",
+    paragraph: "React.js is a popular JavaScript library for building user interfaces...",
+    name: "Wassim",
+    
+  },
+  
+  {
+    title: "Learn how to upload on cloud host",
+    date: "August 28, 2023",
+    imgSrc: "https://www.google.com/search?q=images+dev+ui+ux+1080&tbm=isch&ved=2ahUKEwiE67ahw-6BAxWuJxAIHR-rCR0Q2-cCegQIABAA&oq=images+dev+ui+ux+1080&gs_lcp=CgNpbWcQAzoECCMQJ1C4BVjBCmChDGgAcAB4AIABe4gB4ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=HdwmZcToEK7PwPAPn9am6AE&bih=739&biw=1536&rlz=1C1ONGR_enPL1077PL1077#imgrc=V7BeyjPJapRRJM",
+    paragraph: "React.js is a popular JavaScript library for building user interfaces...",
+    name: "Djawad"
+  },
+  
+  {
+    title: "Learn how to upload on cloud host",
+    date: "August 28, 2023",
+    imgSrc: "https://www.google.com/search?q=images+dev+ui+ux+1080&tbm=isch&ved=2ahUKEwiE67ahw-6BAxWuJxAIHR-rCR0Q2-cCegQIABAA&oq=images+dev+ui+ux+1080&gs_lcp=CgNpbWcQAzoECCMQJ1C4BVjBCmChDGgAcAB4AIABe4gB4ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=HdwmZcToEK7PwPAPn9am6AE&bih=739&biw=1536&rlz=1C1ONGR_enPL1077PL1077#imgrc=V7BeyjPJapRRJM",
+    paragraph: "React.js is a popular JavaScript library for building user interfaces...",
+    name: "Fethi"
+  },
+  
+  {
+    title: "Learn how to upload on cloud host",
+    date: "August 28, 2023",
+    imgSrc: "https://www.google.com/search?q=images+dev+ui+ux+1080&tbm=isch&ved=2ahUKEwiE67ahw-6BAxWuJxAIHR-rCR0Q2-cCegQIABAA&oq=images+dev+ui+ux+1080&gs_lcp=CgNpbWcQAzoECCMQJ1C4BVjBCmChDGgAcAB4AIABe4gB4ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=HdwmZcToEK7PwPAPn9am6AE&bih=739&biw=1536&rlz=1C1ONGR_enPL1077PL1077#imgrc=V7BeyjPJapRRJM",
+    paragraph: "React.js is a popular JavaScript library for building user interfaces...",
+    name: "Anis"
+  },
+  
+];
+
+export default blogs;

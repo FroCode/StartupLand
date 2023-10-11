@@ -7,6 +7,7 @@ import Features from './Components/Features';
 import Ultimate from './Components/Ultimate.jsx';
 import Pricing from './Components/Pricing';
 import Client from './Components/Client';
+import Blog from './Components/Blog';
 function App() {
   return (
     <div className="App ">
@@ -18,6 +19,7 @@ function App() {
       <Ultimate/>
       <Pricing/>
       <Client/>
+      <Blog/>
       <h2 className='bg-red'>Just this</h2>
     </div>
   );
