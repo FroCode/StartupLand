@@ -3,7 +3,7 @@ import {logo } from '../Assets/icons';
 const Footer = () => {
   return (
     <footer className=" font-bold py-10">
-      <div className="container mx-auto border p-7 rounded-3xl flex flex-wrap pl-10">
+      <div className="container mx-auto  p-7 rounded-3xl flex flex-wrap pl-10">
         <div className="w-full md:w-1/4">
         <div className="logo flex mb-5 mt-20">{logo} <h2 className='mt-1 ml-5 text-[20px]	font-bold'>StartupLand</h2></div>
           <p className='mb-4'>Our Information</p>
@@ -17,6 +17,8 @@ const Footer = () => {
           <p className='mb-4'>My Account</p>
           <p className='mb-4'>Connect</p>
           <p className='mb-4'>Costumer Service</p>
+          <p className='mb-4'>Site Map</p>
+          <p className='mb-4'>Press Inquiries</p>
         </div>
         <div className="w-full md:w-1/4">
           <h3 className="text-2xl mb-10">Terms of Use | Privacy</h3>
@@ -27,8 +29,7 @@ const Footer = () => {
           <p className='mb-4'>Return Policy</p>
           <p className='mb-4'>Privacy Policy</p>
           <p className='mb-4'>Terms & Conditions</p>
-          <p className='mb-4'>Site Map</p>
-          <p className='mb-4'>Press Inquiries</p>
+          
         </div>
         <div className="w-full md:w-1/4">
           <h3 className="text-2xl mb-3">Social Media</h3>
