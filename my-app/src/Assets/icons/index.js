@@ -207,3 +207,48 @@ export const blogs = [
 ];
 
 export default blogs;
+
+export const faq = [
+  {
+    question: "Which domain should I purchase?",
+    answer: "Choosing the right domain name depends on your business and branding strategy. It's important to select a domain name that is relevant to your business, easy to remember, and reflects your brand. Consider using keywords related to your industry or products."
+  },
+  {
+    question: "Can I upgrade or downgrade my web hosting plan?",
+    answer: "Yes, you can typically upgrade or downgrade your web hosting plan with most hosting providers. Contact your hosting provider's customer support or check their website for specific instructions on how to modify your hosting plan."
+  },
+  {
+    question: "How do I upgrade the storage capacity of my hosting plan?",
+    answer: "To upgrade the storage capacity of your hosting plan, contact your hosting provider's customer support. They will guide you through the process and may offer you different plans with more storage options."
+  },
+  {
+    question: "What if I need help choosing the right domain?",
+    answer: "If you need assistance in choosing the right domain name, you can consult with your hosting provider's customer support or seek advice from a domain registrar. They can provide recommendations based on your business needs and available domain options."
+  },
+  {
+    question: "What is InMotion Hosting’s uptime rate?",
+    answer: "InMotion Hosting's uptime rate can vary, and it's recommended to check their website or contact their support for the most current uptime statistics. Uptime rates are important for ensuring your website remains accessible to users."
+  },
+  {
+    question: "We make it easy to move to CometNine. Simply contact us and we'll move your hosting account from any other provider, regardless of the control panel. If at any time your website is down for more than 0.1% result.",
+    answer: "CometNine offers easy website migration services, and they are committed to ensuring your website experiences minimal downtime during the migration process. If you face issues with your website's downtime, contact their support for assistance."
+  },
+  {
+    question: "The pricing made me a little hesitant at first, but I have been pleasantly surprised by the level of care given by CometNine.",
+    answer: "It's common to have concerns about pricing, but the quality of service and customer care is also crucial. CometNine aims to provide value for your investment, and their high level of customer care may justify the pricing."
+  },
+  {
+    question: "Stop your viewers from getting distracted. Publish videos to your own Channel and rest easy knowing viewers won’t be annoyed by ads or pulled down a rabbit hole of unrelated videos.",
+    answer: "Publishing videos on your own channel can help maintain control over the viewing experience. You won't have ads or unrelated content distracting your viewers, providing a better user experience."
+  },
+  {
+    question: "Create a hub for cross-functional work that also works with all your other tools. Centralize and standardize communication with Miro. All premium functionalities are included here with updates.",
+    answer: "Miro is a versatile tool for cross-functional collaboration. It integrates with various other tools and offers premium functionalities to enhance communication and teamwork. Check their website for the latest updates and features."
+  },
+  {
+    question: "Learn from the community on Brandwagon. Brian Halligan knows that you need more than a great product to have a great brand. Hear his thoughts & score a peek at our wagon.",
+    answer: "Brandwagon is a platform where you can learn from the community and gain insights from experts like Brian Halligan. Building a great brand goes beyond having a great product, and you can find valuable knowledge and perspectives here."
+  }
+];
+
+// You can use the 'faq' array to display questions and answers on your website or application.
