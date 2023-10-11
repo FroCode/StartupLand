@@ -6,6 +6,7 @@ import Mockup from './Components/Mockup';
 import Features from './Components/Features';
 import Ultimate from './Components/Ultimate.jsx';
 import Pricing from './Components/Pricing';
+import Client from './Components/Client';
 function App() {
   return (
     <div className="App ">
@@ -16,6 +17,7 @@ function App() {
       <Features/>
       <Ultimate/>
       <Pricing/>
+      <Client/>
       <h2 className='bg-red'>Just this</h2>
     </div>
   );
