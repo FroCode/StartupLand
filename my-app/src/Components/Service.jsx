@@ -12,7 +12,7 @@ function Service() {
                 </h3>
             </div>
             <div className="services pt-10 pb-10">
-                <div className="grid md:grid-cols-4 gap-4 m-auto">
+                <div className="grid md:grid-cols-3 lg:grid-cols-4 sm:grid-cols-3 gap-4 m-auto">
                     <div className="text-center p-5 rounded border">
                         <h3 className="text-[#0F2137] font-black text-[16px] text-base">
                             Cloud Hosting
