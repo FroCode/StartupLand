@@ -5,7 +5,7 @@ import header from '../Assets/header.svg'
 function Header() {
   return (
     <div className='w-[100%] bg-[#5B2B9D] pb-20' >
-      <div className="container xl m-auto">
+      <div className="container m-auto">
       <NavBar/>
       <div className="flex w-[90%] mt-20 m-auto">
         <Box />
