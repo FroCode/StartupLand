@@ -4,7 +4,7 @@ import { lock, logo, dehazeIcon } from '../Assets/icons';
 function NavBar() {
   return (
     <div className="lg:container  m-auto">
-      <div className="NavBar sm:w-screen lg:w-[100%] top-0 sm:bg-black   sm:fixed md:bg-green-500  lg:static md:bg-transparent  flex text-white p-5">
+      <div className="NavBar sm:w-screen lg:w-[100%] sm:z-50 top-0 sm:bg-black  lg:bg-transparent sm:fixed  lg:static   flex text-white p-5">
         <div className="logo flex ml-20">
           {logo}
           <h2 className="mt-1 ml-5 text-[20px] font-bold">StartupLand</h2>
