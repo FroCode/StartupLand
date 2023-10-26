@@ -1,3 +1,3 @@
 # StartupLand
-Feautures : 
+Features : 
 - Responsive 
