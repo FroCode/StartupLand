@@ -1,3 +1,2 @@
 # StartupLand
-Features : 
-- Responsive 
+React App 
